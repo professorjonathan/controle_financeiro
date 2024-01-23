@@ -1,3 +1,10 @@
+Projeto Controle Financeiro, com armazenamento no LocalStorage, Styled-Components, totalmente responsivo:
+
+![image](https://github.com/professorjonathan/controle_financeiro/assets/115835116/37789a3a-c0e5-487b-b131-353202a07c20)
+![image](https://github.com/professorjonathan/controle_financeiro/assets/115835116/b034fadc-db4a-4443-9ea7-bc5f70d21d2b)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
